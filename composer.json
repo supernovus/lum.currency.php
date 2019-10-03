@@ -15,7 +15,7 @@
     "php": "^7.0",
     "ext-json": "*",
     "lum/lum-curl": "^1.0 || dev-master",
-    "lum/lum-xml": "^1.0 || dev-master"
+    "lum/lum-xml": "^2.0 || dev-master"
   },
   "autoload":
   {
