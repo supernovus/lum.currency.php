@@ -12,9 +12,9 @@
   ],
   "require":
   {
-    "lum/lum-compat": "^1.0",
-    "lum/lum-curl": "^1.0",
-    "lum/lum-xml": "^2.0"
+    "lum/lum-compat": "^2.0",
+    "lum/lum-curl": "^2.0",
+    "lum/lum-xml": "^3.0"
   },
   "autoload":
   {
@@ -27,7 +27,7 @@
   {
     "branch-alias":
     {
-      "dev-main": "1.x-dev"
+      "dev-main": "2.x-dev"
     }
   }
 }
